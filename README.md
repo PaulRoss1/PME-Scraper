@@ -1,6 +1,6 @@
 # Prague Music Events - Scraper
 
-#### This scraper runs once a day and collects information about upcoming events in Prague and saves the data to a MySQL database hosted on AWS.
+This scraper runs once a day and collects information about upcoming events in Prague and saves the data to a MySQL database hosted on AWS.
 
 ## Technologies Used
 
